@@ -16,7 +16,7 @@ const products = [
         id: 2,
         name: "Dera two",
         description: "Crafted for effortless wear, this dera offers a relaxed fit and timeless silhouette.",
-        price: 450,
+        price: 4550,
         image: "images/image4.jpeg",
         available: true
     },
