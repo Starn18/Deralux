@@ -10,7 +10,7 @@ const products = [
         description: "A lightweight, flowing dera designed for everyday comfort with an elegant finish.",
         price: 450,
         image: "images/image3.jpeg",
-        available: true
+        available: false
     },
     {
         id: 2,
@@ -42,7 +42,7 @@ const products = [
         description: "Kitambaa laini kinachopumua na kuanguka vizuri—linalofaa kwa matumizi ya nyumbani au matembezi ya kawaida",
         price: 450,
         image: "images/image7.jpeg",
-        available: true
+        available: false
     },
     {
         id: 6,
@@ -50,7 +50,7 @@ const products = [
         description: "Muunganiko wa kisasa na mtindo wa asili wa dera kwa mwanamke wa leo.",
         price: 450,
         image: "images/image8.jpeg",
-        available: true
+        available: false
     },
     {
         id: 7,
@@ -74,7 +74,7 @@ const products = [
         description: "Vazi la tabaka mbili linalotoa staili ya heshima kwa hafla au matumizi maalum.",
         price: 450,
         image: "images/image11.jpeg",
-        available: true
+        available: false
     },
     {
         id: 10,
@@ -90,7 +90,7 @@ const products = [
         description: "Muunganiko wa dera linalotiririka na mtandio  inayokamilisha vazi kwa uzuri.",
         price: 450,
         image: "images/image13.jpeg",
-        available: true
+        available: false
     },
     {
         id: 12,
