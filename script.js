@@ -293,7 +293,7 @@ function checkout() {
     }
 
     // Build WhatsApp message
-    let message = '*DERALUX ORDER*\n\n';
+    let message = '*DERALUXE ORDER*\n\n';
     message += '📦 *Order Details:*\n';
     message += '─────────────────\n';
 
