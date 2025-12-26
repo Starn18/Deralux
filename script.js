@@ -9,15 +9,15 @@ const products = [
         name: "Dera one",
         description: "A lightweight, flowing dera designed for everyday comfort with an elegant finish.",
         price: 450,
-        image: "images/image3.jpeg",
-        available: false
+        image: "images/image14.jpeg",
+        available: true
     },
     {
         id: 2,
         name: "Dera two",
         description: "Crafted for effortless wear, this dera offers a relaxed fit and timeless silhouette.",
         price: 450,
-        image: "images/image4.jpeg",
+        image: "images/image15.jpeg",
         available: true
     },
     {
@@ -25,7 +25,7 @@ const products = [
         name: "Dera three",
         description: "Dera nyepesi na linalotiririka, limeundwa kwa faraja ya kila siku na mvuto wa kipekee",
         price: 450,
-        image: "images/image5.jpeg",
+        image: "images/image16.jpeg",
         available: true
     },
     {
@@ -33,7 +33,7 @@ const products = [
         name: "Dera four",
         description: "Dera hili lina muundo mpana unaotoa uhuru wa kuvaa na mwonekano wa heshima.",
         price: 450,
-        image: "images/image6.jpeg",
+        image: "images/image17.jpeg",
         available: true
     },
     {
@@ -41,23 +41,23 @@ const products = [
         name: "Dera five",
         description: "Kitambaa laini kinachopumua na kuanguka vizuri—linalofaa kwa matumizi ya nyumbani au matembezi ya kawaida",
         price: 450,
-        image: "images/image7.jpeg",
-        available: false
+        image: "images/image18.jpeg",
+        available: true
     },
     {
         id: 6,
         name: "Dera six",
         description: "Muunganiko wa kisasa na mtindo wa asili wa dera kwa mwanamke wa leo.",
         price: 450,
-        image: "images/image8.jpeg",
-        available: false
+        image: "images/image19.jpeg",
+        available: true
     },
     {
         id: 7,
         name: "Dera seven",
         description: "Limeundwa kukupa faraja siku nzima bila kupoteza uzuri wa mwonekano.",
         price: 450,
-        image: "images/image9.jpeg",
+        image: "images/image20.jpeg",
         available: true
     },
     {
@@ -65,7 +65,7 @@ const products = [
         name: "Dera eight",
         description: "Rahisi, maridadi na linalofaa kwa matumizi ya kila siku.",
         price: 450,
-        image: "images/image10.jpeg",
+        image: "images/image21.jpeg",
         available: true
     },
     {
@@ -73,15 +73,15 @@ const products = [
         name: "Dera nine",
         description: "Vazi la tabaka mbili linalotoa staili ya heshima kwa hafla au matumizi maalum.",
         price: 450,
-        image: "images/image11.jpeg",
-        available: false
+        image: "images/image22.jpeg",
+        available: true
     },
     {
         id: 10,
         name: "Dera ten",
         description: "Seti kamili ya dera na mtandio inayokupa mwonekano wa heshima na ustaarabu.",
         price: 450,
-        image: "images/image12.jpeg",
+        image: "images/image23.jpeg",
         available: true
     },
     {
@@ -89,8 +89,8 @@ const products = [
         name: "Dera eleven",
         description: "Muunganiko wa dera linalotiririka na mtandio  inayokamilisha vazi kwa uzuri.",
         price: 450,
-        image: "images/image13.jpeg",
-        available: false
+        image: "images/image24.jpeg",
+        available: true
     },
     {
         id: 12,
@@ -98,7 +98,7 @@ const products = [
         description: "Muonekano kamili wa heshima, faraja na maridadi kwa mwanamke wa kisasa",
         price: 450,
         image: "images/image9.jpeg",
-        available: true
+        available: false
     }
 ];
 
